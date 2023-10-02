@@ -1,0 +1,4 @@
+Welcome to the Grocery Express Delivery Service!
+Do you wish to login or register? Type "l" for login and "r" for register: 
+Invalid input. Please put a valid input.
+Do you wish to login or register? Type "l" for login and "r" for register: 

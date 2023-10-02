@@ -1,0 +1,11 @@
+Files drone_delivery_14_results.txt and drone_delivery_initial_14_results.txt are identical
+Elapsed time: 0.252s
+Elapsed time: Exception in thread "main" java.util.NoSuchElementException
+	at java.base/java.util.Scanner.throwFor(Scanner.java:937)
+	at java.base/java.util.Scanner.next(Scanner.java:1478)
+	at edu.gatech.cs6310.DeliveryService.authenticateUser(DeliveryService.java:16)
+	at edu.gatech.cs6310.DeliveryService.authenticateUser(DeliveryService.java:25)
+	at edu.gatech.cs6310.DeliveryService.commandLoop(DeliveryService.java:212)
+	at Main.main(Main.java:9)
+Error response from daemon: Could not find the file /usr/src/cs6310/diff_results_14.txt in container dronedelivery
+0.203s
