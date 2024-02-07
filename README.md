@@ -1,4 +1,3 @@
-A5 Repo for CS6310
 # Login
 ```
 Press “l” to log in
